@@ -49,7 +49,7 @@ By the end of the course, students will be able to:
 - Location: Smith Hall Room 102
 
 ## Course grading and exams
-- Final project: 50% (25% for oral presentation, 15% for code repository, 10% for proposal)
+- Final project: 50% (25% for oral presentation, 15% for code repository and slides, 10% for proposal)
 - In-class midterm: 20% (Tue, Oct 13, 2026)
 - Online final on Canvas: 20% (available Tue, Dec 8, 2026; due Tue, Dec 15, 2026)
 - Guest lecture attendance: 10% (5% for one attended lecture; full 10% for attending at least two)
