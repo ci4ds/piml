@@ -1,5 +1,5 @@
 # Welcome to Advanced Machine Learning: SCIENTIFIC MACHINE LEARNING.
-**Course number:** CISC 889  
+**Course number:** CISC 889-010
 **Course site:** Canvas
 
 Advanced machine learning methods for scientific computing, probabilistic modeling, deep learning, and physics-informed learning. This course explores Scientific Machine Learning (SciML), focusing on the integration of data-driven methods with mechanistic models to solve complex problems in scientific and engineering systems. Topics include physics-informed neural networks (PINNs), neural operators, and large language models. Optional topics may include graph neural networks and diffusion models, with an emphasis on modeling dynamical systems, inverse problems, and uncertainty quantification.
