@@ -7,6 +7,9 @@ Advanced machine learning methods for scientific computing, probabilistic modeli
 
 Students will gain hands-on experience implementing SciML approaches using modern machine learning frameworks (e.g., PyTorch, TensorFlow, and JAX) and applying them to real-world datasets. The course emphasizes both theoretical foundations and practical implementation, preparing students to develop interpretable, robust, and physically consistent models for scientific discovery and engineering applications.
 
+
+[**Course schedule** (check for important dates regarding assignments, exams)](https://docs.google.com/spreadsheets/d/118OpcxvQy7__pV9KGZZGMc3EAdH9MeOO/edit?usp=sharing&ouid=108632683420235816511&rtpof=true&sd=true) **Please open using UDEL Google account.**
+
 ## Prerequisites and expected background
 
 Students should have prior coursework or equivalent experience in:
@@ -30,7 +33,23 @@ By the end of the course, students will be able to:
 - Compare modeling approaches in terms of accuracy, computational cost, interpretability, robustness, and physical consistency
 - Design, document, and communicate a reproducible Scientific Machine Learning project through a proposal, code repository, and oral presentation
 
-[Course schedule (check for important dates regarding assignments, exams)](https://docs.google.com/spreadsheets/d/118OpcxvQy7__pV9KGZZGMc3EAdH9MeOO/edit?usp=sharing&ouid=108632683420235816511&rtpof=true&sd=true) **Please open using UDEL Google account.**
+## Recommended resources and readings
+
+### Textbook
+
+Christopher M. Bishop, [*Pattern Recognition and Machine Learning*](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Springer, 2006. This textbook is recommended as a reference; assigned course materials and announcements will be provided through Canvas.
+
+### Online resources
+
+- [*Physics-Based Deep Learning*](https://physicsbaseddeeplearning.org/intro.html), an online introduction to combining deep learning with physical modeling
+- [PINN Course 2026](https://github.com/androbomb/PINN_Course_2026), course notes, code, and examples for physics-informed neural networks
+
+### Selected papers
+
+- M. Raissi, P. Perdikaris, and G. E. Karniadakis, [“Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations”](https://doi.org/10.1016/j.jcp.2018.10.045), *Journal of Computational Physics*, 378, 686–707, 2019. Foundational PINN paper.
+- G. E. Karniadakis, I. G. Kevrekidis, L. Lu, P. Perdikaris, S. Wang, and L. Yang, [“Physics-informed machine learning”](https://doi.org/10.1038/s42254-021-00314-5), *Nature Reviews Physics*, 3, 422–440, 2021. Broad review of physics-informed learning methods and applications.
+- L. Lu, X. Meng, Z. Mao, and G. E. Karniadakis, [“DeepXDE: A deep learning library for solving differential equations”](https://doi.org/10.1137/19M1274067), *SIAM Review*, 63(1), 208–228, 2021. Practical PINN algorithms and an educational software framework.
+
 
 ## Instructor info
 
