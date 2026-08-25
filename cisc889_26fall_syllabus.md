@@ -46,7 +46,7 @@ By the end of the course, students will be able to:
 
 ## Office hours
 - Time: Tu Th 2:30 PM - 3:30 PM
-- Location: Smith Hall Room 102B
+- Location: Smith Hall Room 102
 
 ## Course grading and exams
 - Final project: 50% (25% for oral presentation, 15% for code repository, 10% for proposal)
