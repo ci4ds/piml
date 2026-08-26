@@ -29,7 +29,7 @@ By the end of the course, students will be able to:
 - Implement and evaluate machine learning models using a modern computational framework such as PyTorch, TensorFlow, or JAX
 - Integrate observational data with governing equations, physical constraints, or other domain knowledge
 - Develop and assess models including neural networks, Gaussian processes, physics-informed neural networks, neural operators, and selected generative models
-- Apply uncertainty quantification, Bayesian optimization, or active learning methods to scientific and engineering problems
+- Apply uncertainty quantification and Bayesian optimization methods to scientific and engineering problems
 - Compare modeling approaches in terms of accuracy, computational cost, interpretability, robustness, and physical consistency
 - Design, document, and communicate a reproducible Scientific Machine Learning project through a proposal, code repository, and oral presentation
 
