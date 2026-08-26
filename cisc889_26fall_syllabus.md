@@ -185,7 +185,7 @@ Students must follow the University of Delaware's [Academic Integrity Policy](ht
 
 ### Collaboration and use of generative AI
 
-Collaboration is encouraged when explicitly permitted, especially for discussion of course concepts and approved team projects. Unless otherwise stated, graded examinations must be completed independently. Generative AI tools may be used for learning, brainstorming, and code debugging on practice work and the final project, but their use must be disclosed in the submitted work. Students remain responsible for verifying generated code, text, citations, data, and results. Generative AI tools may not be used during the in-class midterm or online final unless the instructor explicitly authorizes their use.
+Collaboration is encouraged when explicitly permitted, especially for discussion of course concepts and approved team projects. Unless otherwise stated, graded examinations must be completed independently. Generative AI tools may be used for learning, brainstorming, and code debugging on practice work and the final project, but their use must be disclosed in the submitted work. Students remain responsible for verifying generated code, text, citations, data, and results. Generative AI tools may not be used during the in-class midterm or online final. Using AI for exams will result in a grade of 0 for the exam.
 
 ### Disability accommodations
 
@@ -205,4 +205,4 @@ The instructor may adjust topics, dates, or course procedures when necessary. Ma
 
 ### Instructor discretion
 
-The instructor may exercise reasonable discretion in interpreting and applying course procedures, evaluating circumstances not specifically addressed in this syllabus, and making case-by-case decisions concerning deadlines, participation, assessments, and course activities. Such decisions will be made in good faith, applied as consistently and equitably as practicable, and remain subject to University policy and approved accommodations. This clause does not alter the published grading weights or waive students' rights under University policy. When a discretionary decision materially affects the class, it will be communicated through Canvas.
+The instructor may exercise reasonable discretion in interpreting and applying course procedures, evaluating circumstances not specifically addressed in this syllabus, and making case-by-case decisions concerning deadlines, participation, assessments, and course activities. Such decisions will be made in good faith, applied as consistently and equitably as practicable, and remain subject to University policy and approved accommodations. This clause does not alter the published grading weights or waive students' rights under University policy. When a discretionary decision materially affects the class, it will be communicated through emails.
