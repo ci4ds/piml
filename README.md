@@ -1,4 +1,5 @@
 # Welcome to Advanced Machine Learning: SCIENTIFIC MACHINE LEARNING.
+
 **Course number:** CISC 889-010
 
 **Course site:** Canvas
@@ -6,7 +7,6 @@
 Advanced machine learning methods for scientific computing, probabilistic modeling, deep learning, and physics-informed learning. This course explores Scientific Machine Learning (SciML), focusing on the integration of data-driven methods with mechanistic models to solve complex problems in scientific and engineering systems. Topics include physics-informed neural networks (PINNs), neural operators, and large language models. Optional topics may include graph neural networks and diffusion models, with an emphasis on modeling dynamical systems, inverse problems, and uncertainty quantification.
 
 Students will gain hands-on experience implementing SciML approaches using modern machine learning frameworks (e.g., PyTorch, TensorFlow, and JAX) and applying them to real-world datasets. The course emphasizes both theoretical foundations and practical implementation, preparing students to develop interpretable, robust, and physically consistent models for scientific discovery and engineering applications.
-
 
 [**Course schedule** (check for important dates regarding assignments, exams)](https://docs.google.com/spreadsheets/d/118OpcxvQy7__pV9KGZZGMc3EAdH9MeOO/edit?usp=sharing&ouid=108632683420235816511&rtpof=true&sd=true) **Please open using UDEL Google account.**
 
@@ -39,6 +39,8 @@ By the end of the course, students will be able to:
 
 Christopher M. Bishop, [*Pattern Recognition and Machine Learning*](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), Springer, 2006. This textbook is recommended as a reference; assigned course materials and announcements will be provided through Canvas.
 
+Kevin P. Murphy, [*Probabilistic Machine Learning: An Introduction*](https://probml.github.io/pml-book/book1.html), MIT Press, 2022.
+
 ### Online resources
 
 - [*Physics-Based Deep Learning*](https://physicsbaseddeeplearning.org/intro.html), an online introduction to combining deep learning with physical modeling
@@ -49,7 +51,6 @@ Christopher M. Bishop, [*Pattern Recognition and Machine Learning*](https://www.
 - M. Raissi, P. Perdikaris, and G. E. Karniadakis, [“Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations”](https://doi.org/10.1016/j.jcp.2018.10.045), *Journal of Computational Physics*, 378, 686–707, 2019. Foundational PINN paper.
 - G. E. Karniadakis, I. G. Kevrekidis, L. Lu, P. Perdikaris, S. Wang, and L. Yang, [“Physics-informed machine learning”](https://doi.org/10.1038/s42254-021-00314-5), *Nature Reviews Physics*, 3, 422–440, 2021. Broad review of physics-informed learning methods and applications.
 - L. Lu, X. Meng, Z. Mao, and G. E. Karniadakis, [“DeepXDE: A deep learning library for solving differential equations”](https://doi.org/10.1137/19M1274067), *SIAM Review*, 63(1), 208–228, 2021. Practical PINN algorithms and an educational software framework.
-
 
 ## Instructor info
 
@@ -65,10 +66,12 @@ Christopher M. Bishop, [*Pattern Recognition and Machine Learning*](https://www.
 - Course materials, announcements, assessments, and submissions: Canvas
 
 ## Office hours
+
 - Time: Tu Th 2:30 PM - 3:30 PM
 - Location: Smith Hall Room 102
 
 ## Course grading and exams
+
 - Final project: 50% (25% for oral presentation, 15% for code repository and slides, 10% for proposal)
 - In-class midterm: 20% (Tue, Oct 13, 2026)
 - Online final on Canvas: 20% (available Tue, Dec 8, 2026; due Tue, Dec 15, 2026)
@@ -77,19 +80,19 @@ Christopher M. Bishop, [*Pattern Recognition and Machine Learning*](https://www.
 ### Letter-grade scale
 
 | Letter grade | Final course percentage |
-|---|---:|
-| A | 93%–100% |
-| A− | 90%–<93% |
-| B+ | 87%–<90% |
-| B | 83%–<87% |
-| B− | 80%–<83% |
-| C+ | 77%–<80% |
-| C | 73%–<77% |
-| C− | 70%–<73% |
-| D+ | 67%–<70% |
-| D | 63%–<67% |
-| D− | 60%–<63% |
-| F | <60% |
+| ------------ | ----------------------: |
+| A            |               93%–100% |
+| A−          |               90%–<93% |
+| B+           |               87%–<90% |
+| B            |               83%–<87% |
+| B−          |               80%–<83% |
+| C+           |               77%–<80% |
+| C            |               73%–<77% |
+| C−          |               70%–<73% |
+| D+           |               67%–<70% |
+| D            |               63%–<67% |
+| D−          |               60%–<63% |
+| F            |                    <60% |
 
 ### Practice assignments
 
@@ -155,6 +158,7 @@ The presentation will be evaluated on technical content, quality of analysis, or
 Two to three guest lectures will be scheduled during the semester. Attendance at one complete guest lecture earns 5% of the final course grade. Attendance at two or more complete guest lectures earns the full 10%. Students who cannot attend because of an emergency, documented illness, religious observance, or another university-approved absence should contact the instructor as soon as possible to discuss an alternative arrangement.
 
 ## Important notes
+
 *Exams are open book and open notes, and calculators are allowed. Laptops and phones are not permitted during the in-class midterm. A computer may be used for the online final.
 
 *“In class” means during the regularly scheduled class time and in the assigned classroom.
