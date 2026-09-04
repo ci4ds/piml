@@ -102,6 +102,23 @@ Practice assignments are ungraded and do not contribute to the final course grad
 
 The final project asks students to apply Scientific Machine Learning methods to a substantive problem in science or engineering. Projects should connect a clearly defined scientific question with appropriate data, governing equations, physical constraints, or domain knowledge. Students are expected to justify their modeling choices, evaluate their results critically, and communicate the limitations of their approach. **The size of the group and the duration of the presentation will be determined after registration of the course is finalized.**
 
+#### Research scope and expected outcomes
+
+You are expected to complete a small but well-defined research project on either **solving differential equations using deep learning** or **applying machine learning to scientific data**. Keep the scope focused enough to implement, evaluate, and analyze within the semester.
+
+The project should go beyond simply reproducing existing work. You should:
+
+- Identify a specific research question or potential improvement, and explain how it builds on existing work.
+- Implement appropriate methods and compare them with at least one relevant baseline using clearly defined evaluation metrics.
+- Conduct experiments that directly address your question, such as testing the effects of data availability, noise, model choices, or physical constraints.
+- Analyze the results, explain what they support, and discuss limitations and possible reasons for success or failure.
+
+A focused comparison or a modest, carefully evaluated improvement is sufficient; a new state-of-the-art method is not required. For example, you might investigate whether a sampling strategy improves a neural differential-equation solver, or whether adding a physical constraint improves prediction from limited scientific data. A well-supported finding that an approach does not improve performance is also a valid outcome.
+
+Example papers for project inspiration are available in [Robotics](https://drive.google.com/drive/folders/1oMoS0m4Fq6cJL5BHxvI9OJPOYZWfsoAR?usp=sharing) and [Time series](https://drive.google.com/drive/folders/1FiTY_M4gIjh5m5fS1SKL04ZKv8v0Y6Qi?usp=drive_link). Projects are not limited to these papers or topics; other projects within the scope described above are welcome.
+
+**The final results should be communicated through a total of five figures and tables combined** (for example, three figures and two tables). These should support the research question, method comparisons, and experimental analysis, with clear labels, captions, and an explanation of the main findings. Include them in the final presentation slides and make them available in the code repository.
+
 The final project consists of the following components:
 
 #### Project proposal — 10%
