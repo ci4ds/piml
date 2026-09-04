@@ -115,7 +115,7 @@ The project should go beyond simply reproducing existing work. You should:
 
 A focused comparison or a modest, carefully evaluated improvement is sufficient; a new state-of-the-art method is not required. For example, you might investigate whether a sampling strategy improves a neural differential-equation solver, or whether adding a physical constraint improves prediction from limited scientific data. A well-supported finding that an approach does not improve performance is also a valid outcome.
 
-Example papers for project inspiration are available in [Robotics](https://drive.google.com/drive/folders/1oMoS0m4Fq6cJL5BHxvI9OJPOYZWfsoAR?usp=sharing) and [Time series](https://drive.google.com/drive/folders/1FiTY_M4gIjh5m5fS1SKL04ZKv8v0Y6Qi?usp=drive_link). Projects are not limited to these papers or topics; other projects within the scope described above are welcome.
+Example papers for project inspiration are available in [Robotics](https://drive.google.com/drive/folders/1oMoS0m4Fq6cJL5BHxvI9OJPOYZWfsoAR?usp=sharing) and [Time series](https://drive.google.com/drive/folders/1FiTY_M4gIjh5m5fS1SKL04ZKv8v0Y6Qi?usp=drive_link) (please access using UDEL account). Projects are not limited to these papers or topics; other projects within the scope described above are welcome.
 
 **The final results should be communicated through a total of five figures and tables combined** (for example, three figures and two tables). These should support the research question, method comparisons, and experimental analysis, with clear labels, captions, and an explanation of the main findings. Include them in the final presentation slides and make them available in the code repository.
 
